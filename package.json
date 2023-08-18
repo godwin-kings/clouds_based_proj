@@ -1,7 +1,7 @@
 {
   "name": "cloud-proj",
   "version": "0.1.0",
-  "homepage": "https://gitgodwin-kings.github.io./clouds_based_proj",
+  "homepage": "https://gitgodwin-kings.github.io/clouds_based_proj",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
